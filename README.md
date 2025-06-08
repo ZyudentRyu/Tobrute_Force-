@@ -42,6 +42,5 @@ Once dependencies are installed, run the script:
     python3 tobrute.py
     ```
 
-## Usage:
-To use this tool, provide the file path to a password-protected **ZIP**, **RAR**, or **TAR** file and the path to your wordlist file.
+
 
